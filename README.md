@@ -11,6 +11,6 @@ Program flow:
 5. Opens the skeleton page as an octet stream and emails it to the Kindle using Gmail's SMTP service.
 
 
-# Requires install of BeautifulSoup package for Python
-# Uses standard Python libraries for rest of the functions
-# Assumes that this script is run on a Windows environment
+- Requires install of BeautifulSoup package for Python
+- Uses standard Python libraries for rest of the functions
+- Assumes that this script is run on a Windows environment
