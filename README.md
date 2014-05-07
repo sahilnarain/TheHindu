@@ -15,3 +15,4 @@ Dependencies:
 - Requires install of BeautifulSoup package for Python
 - Uses standard Python libraries for rest of the functions
 - Assumes that this script is run on a Windows environment
+- Assumes that the sender can authenticate on Gmail's SMTP.
